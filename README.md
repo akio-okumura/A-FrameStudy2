@@ -10,6 +10,8 @@ A-Frameの学習用レポジトリ2(前のは死んだ)
 
 a-sound
 
+re
+
 ## Asset Management System
 
 アセット機能が使えなかったのは、ローカルで実行してたから。
