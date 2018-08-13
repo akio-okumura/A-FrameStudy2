@@ -12,6 +12,8 @@ a-sound
 
 git
 
+re
+
 ## Asset Management System
 
 アセット機能が使えなかったのは、ローカルで実行してたから。
